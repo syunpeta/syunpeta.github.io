@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "petasyun@gmail.com"
+  #email: 
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: https://github.com/syunpeta
+  github: syunpeta
   twitter: revivalpeta
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -52,7 +52,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: instagram.com/revivalpeta
+  instagram: revivalpeta
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
