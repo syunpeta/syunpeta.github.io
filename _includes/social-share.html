@@ -26,14 +26,6 @@
     </a>
   {% endif %}
 
-  {% if site.share-links-active.linkedin %}
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
-      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
-      <span class="sr-only">LinkedIn</span>
-    </a>
-  {% endif %}
-
   {% if site.share-links-active.vk %}
     <a href="https://vk.com/share.php?url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-vk" title="Share on VK">

@@ -10,4 +10,4 @@ title: About me
 プログラミングは大学に入ってから始めました。主に使うのはPython、C/C++です。  
 他にもJava、HTML、CSSの経験も<span style="color: silver; ">ほんの少し</span>あります。
 
-![Pythonアイコン](/assets/img/python.png)        ![C++アイコン](https://img.icons8.com/color/100/000000/c-plus-plus-logo.png)        ![Cアイコン](/assets/img/C.png)
+![Pythonアイコン](/assets/img/python.png)          ![C++アイコン](https://img.icons8.com/color/100/000000/c-plus-plus-logo.png)          ![Cアイコン](/assets/img/C.png)
