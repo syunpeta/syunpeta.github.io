@@ -3,8 +3,10 @@ layout: post
 title: Github pagesをjekyllで作る際のエラー
 gh-repo: daattali/beautiful-jekyll
 tags: [Ruby,プログラミング]
+thumbnail-img: /assets/img/ruby.png
 comments: true
 ---
+jekyllとGithub pagesを用いてサイトを立ち上げる際に躓いた点を紹介します。
 
 ## jekyllでGithub pagesを作る方法
 jekyll(ジキル)はRuby製の静的サイトジェネレーターです。  

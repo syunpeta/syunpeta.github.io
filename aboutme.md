@@ -11,3 +11,4 @@ title: About me
 他にもJava、HTML、CSSの経験も<span style="color: silver; ">ほんの少し</span>あります。
 
 ![Pythonアイコン](/assets/img/python.png)          ![C++アイコン](https://img.icons8.com/color/100/000000/c-plus-plus-logo.png)          ![Cアイコン](/assets/img/C.png)
+
